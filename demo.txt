@@ -1,0 +1,11 @@
+This was supposed to be a simple fix
+
+it's not
+
+this line belongs in a file called "function1.txt"
+
+this should be deleted because it is old
+
+this line belongs in a file called "function2.txt"
+
+here is the actual problem
